@@ -16,7 +16,7 @@ Antes de começar a explicar como funciona o projeto, é importante dizer que to
 
 ### Canais do servidor do Discord
 
-Quando entrar no servidor no Discord, vai ver canais (onde acontecem as discussões sobre atividades e dúvidas em geral) de texto e áudo/video, os principais canais de texto são:
+Quando entrar no servidor no Discord, vai ver canais (onde acontecem as discussões sobre atividades e dúvidas em geral) de texto e áudio/video, os principais canais de texto são:
 * `#geral`: canal para conversas diversas, dúvidas e qualquer assunto que não se encaixe nos outros canais
 * `#apresente-se`: canal onde você tem a oportunidade de se apresentar logo que entrar no servidor
 * `#tematico-<tecnologia>`: esses são canais de texto específicos para tecnologias ou tópicos, aqui é onde pode tirar dúvidas e compartilhar o que achar relevante sobre aquela tecnologia específica.
@@ -34,6 +34,9 @@ Por exemplo, quer estudar sobre uma tecnologia específica? quer montar um grupo
 As demandas atendidas pelas mentoria podem ser consultadas nesse *board* público: https://github.com/orgs/mentoriadevops/projects/1
 
 Você pode acompanhar todos os resultados dos projetos da mentoria na [organização do GitHub aqui](https://github.com/mentoriadevops).
+
+### Agenda síncronas
+A maior parte das atividades são realizadas de forma asíncronas, mas temos agendas síncronas para atualização das tarefas e outras discussões, essas agendas são divulgadas no canal `#geral` e você consegue ver na lista de eventos do Discord.
 
 ## Perguntas Frequentes
 ### Entrei no servidor do Discord, o que fazer?
