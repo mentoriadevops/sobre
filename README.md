@@ -27,12 +27,16 @@ Você pode conferir todos os eventos agendados na parte superior do menu lateral
 
 A mentoria DevOps possui projetos principais que estão sendo trabalhados e atendem a iniciativas de software livre, mas não quer dizer que obrigatoriamente você precisa estar atuando em atividades relacionadas a esses projetos.
 
-Por exemplo, quer estudar sobre uma tecnologia específica? quer montar um grupo para estudar para uma certificação? Converse sobre isso no canal `#geral` ou `#tematico-<tecnologia>` e caso haja interesse crie uma agenda no canal `#agenda` e é isso!
+Por exemplo, quer estudar sobre uma tecnologia específica? quer montar um grupo para estudar para uma certificação? Converse sobre isso no canal `#geral` ou `#tematico-<tecnologia>` e caso haja interesse crie uma agenda para isso!
 
 As demandas atendidas pelas mentoria podem ser consultadas nesse *board* público: https://github.com/orgs/mentoriadevops/projects/1
 
+Você pode acompanhar todos os resultados dos projetos da mentoria na [organização do GitHub aqui](https://github.com/mentoriadevops).
 
-Você pode acompanhar todos os resultados da mentoria na [organização do GitHub aqui](https://github.com/mentoriadevops).
+
+## Perguntas Frequentes
+### Entrei no servidor do Discord, o que fazer?
+Assim que entrar no servidor, se apresente no canal `#apresente-se`, veja os eventos agendados e veja o *board* dos projetos em andamento. 
 
 ## Código de Conduta
 Toda a comunicação é regida por um código de conduta, você pode ver os detalhes [aqui](https://github.com/DadosAbertosDeFeira/guias/blob/main/CODIGO_DE_CONDUTA.md).
